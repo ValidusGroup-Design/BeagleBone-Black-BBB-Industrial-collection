@@ -86,3 +86,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 License
 
 This project is dual-licensed under the MIT License and GPLv3 License. You may choose either license for your use case. See the LICENSE file for details.
+
+https://pypi.org/project/gpiod/1.5.4/
+
+https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git
