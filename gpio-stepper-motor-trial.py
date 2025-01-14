@@ -43,8 +43,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 
 # Observation Tips:
-# - Watch the motor's and watch the pulse signal response on a scope to see how
-#   how pulse width and timing variations impact its behavior.
+# - Watch the motor and watch the pulse signal response on a scope to see 
+#   how pulse width and timing variations impact the motor's behavior.
 # - Adjust the frequency variable and observe how the motor speed and
 #   consistency change with different pulse settings.
 
